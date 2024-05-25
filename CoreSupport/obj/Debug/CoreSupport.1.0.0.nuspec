@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CoreSupport</id>
+    <version>1.0.0</version>
+    <title>ElroubyCoreSupport</title>
+    <authors>CoreSupport</authors>
+    <icon>elrouby.png</icon>
+    <readme>Readme.md</readme>
+    <projectUrl>https://github.com/ElroubyMagnos/CoreSupport</projectUrl>
+    <description>Best Net Core Library that Support you in creating different type of Windows Forms Applications!</description>
+    <releaseNotes>Best Controls Available</releaseNotes>
+    <repository type="git" url="https://github.com/ElroubyMagnos/CoreSupport" />
+    <dependencies>
+      <group targetFramework="net7.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net7.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\bin\Debug\net7.0-windows\CoreSupport.dll" target="lib\net7.0-windows7.0\CoreSupport.dll" />
+    <file src="D:\Abdullah\elrouby.png" target="\elrouby.png" />
+    <file src="D:\Abdullah\Readme.md" target="\Readme.md" />
+  </files>
+</package>

@@ -1,0 +1,62 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>4dc9dd9d-391e-4dc3-98fd-2d698288feaf</ProjectGuid>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<UseWindowsForms>true</UseWindowsForms>
+	<Title>ElroubyCoreSupport</Title>
+	<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	<Description>Best Net Core Library that Support you in creating different type of Windows Forms Applications!</Description>
+	<PackageProjectUrl>https://github.com/ElroubyMagnos/CoreSupport</PackageProjectUrl>
+	<RepositoryUrl>https://github.com/ElroubyMagnos/CoreSupport</RepositoryUrl>
+	<RepositoryType>git</RepositoryType>
+	<PackageIcon>elrouby.png</PackageIcon>
+	<PackageReadmeFile>Readme.md</PackageReadmeFile>
+	<AssemblyVersion>1.1.0.0</AssemblyVersion>
+	<FileVersion>1.1.0.0</FileVersion>
+	<PackageReleaseNotes>Best Controls Available</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\btn.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\btn.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\..\Abdullah\elrouby.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\..\..\..\..\Abdullah\Readme.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="ForBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

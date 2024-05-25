@@ -1,0 +1,196 @@
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\bin\Debug\net7.0-windows\CoreSupport.deps.json
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\bin\Debug\net7.0-windows\CoreSupport.dll
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\bin\Debug\net7.0-windows\CoreSupport.pdb
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport._3DSkyButton.resources
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.ButtonNumber.resources
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.CheckTimePicker.resources
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedDecimalBox.resources
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedIntBox.resources
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedIntComboBox.resources
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedIntStringBox.resources
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedStringComboBox.resources
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.IntegerBox.resources
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.PasswordBox.resources
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.Properties.Resources.resources
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.SkyButton.resources
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.SkyGrid.resources
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\VisionSystem.Particles.InputBox.resources
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.SmallForms.WithExpireDate.resources
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.IntegerBoxToolStrip.resources
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.csproj.GenerateResource.cache
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.GeneratedMSBuildEditorConfig.editorconfig
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.AssemblyInfoInputs.cache
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.AssemblyInfo.cs
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.csproj.CoreCompileInputs.cache
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.dll
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\refint\CoreSupport.dll
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.pdb
+F:\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\ref\CoreSupport.dll
+F:\Abdullah\CoreSupport\CoreSupport\bin\Debug\net7.0-windows\CoreSupport.deps.json
+F:\Abdullah\CoreSupport\CoreSupport\bin\Debug\net7.0-windows\CoreSupport.dll
+F:\Abdullah\CoreSupport\CoreSupport\bin\Debug\net7.0-windows\CoreSupport.pdb
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.ButtonNumber.resources
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.CheckTimePicker.resources
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedDecimalBox.resources
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedIntBox.resources
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedIntComboBox.resources
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedIntStringBox.resources
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedStringComboBox.resources
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.IntegerBox.resources
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.PasswordBox.resources
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.PercentageBox.resources
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.Properties.Resources.resources
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.SkyButton.resources
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.SkyGrid.resources
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\VisionSystem.Particles.InputBox.resources
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.SmallForms.WithExpireDate.resources
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.IntegerBoxToolStrip.resources
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.csproj.GenerateResource.cache
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.GeneratedMSBuildEditorConfig.editorconfig
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.AssemblyInfoInputs.cache
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.AssemblyInfo.cs
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.csproj.CoreCompileInputs.cache
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.dll
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\refint\CoreSupport.dll
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.pdb
+F:\Abdullah\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\ref\CoreSupport.dll
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\ref\CoreSupport.dll
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\bin\Debug\net7.0-windows\CoreSupport.deps.json
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\bin\Debug\net7.0-windows\CoreSupport.dll
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\bin\Debug\net7.0-windows\CoreSupport.pdb
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.ButtonNumber.resources
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.CheckTimePicker.resources
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedDecimalBox.resources
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedIntBox.resources
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedIntComboBox.resources
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedIntStringBox.resources
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedStringComboBox.resources
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.IntegerBox.resources
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.PasswordBox.resources
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.PercentageBox.resources
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.Properties.Resources.resources
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.SkyButton.resources
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.SkyGrid.resources
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\VisionSystem.Particles.InputBox.resources
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.SmallForms.WithExpireDate.resources
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.IntegerBoxToolStrip.resources
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.dll
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\refint\CoreSupport.dll
+C:\Users\lenovo\Desktop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.pdb
+D:\rouby\CoreSupport\CoreSupport\bin\Debug\net7.0-windows\CoreSupport.deps.json
+D:\rouby\CoreSupport\CoreSupport\bin\Debug\net7.0-windows\CoreSupport.dll
+D:\rouby\CoreSupport\CoreSupport\bin\Debug\net7.0-windows\CoreSupport.pdb
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.ButtonNumber.resources
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.CheckTimePicker.resources
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedDecimalBox.resources
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedIntBox.resources
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedIntComboBox.resources
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedIntStringBox.resources
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedStringComboBox.resources
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.IntegerBox.resources
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.PasswordBox.resources
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.PercentageBox.resources
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.Properties.Resources.resources
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.SkyButton.resources
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.SkyGrid.resources
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\VisionSystem.Particles.InputBox.resources
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.SmallForms.WithExpireDate.resources
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.IntegerBoxToolStrip.resources
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.csproj.GenerateResource.cache
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.GeneratedMSBuildEditorConfig.editorconfig
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.AssemblyInfoInputs.cache
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.AssemblyInfo.cs
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.csproj.CoreCompileInputs.cache
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.dll
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\refint\CoreSupport.dll
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.pdb
+D:\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\ref\CoreSupport.dll
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\bin\Debug\net7.0-windows\CoreSupport.deps.json
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\bin\Debug\net7.0-windows\CoreSupport.dll
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\bin\Debug\net7.0-windows\CoreSupport.pdb
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.ButtonNumber.resources
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.CheckTimePicker.resources
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedDecimalBox.resources
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedIntBox.resources
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedIntComboBox.resources
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedIntStringBox.resources
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedStringComboBox.resources
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.IntegerBox.resources
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.PasswordBox.resources
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.PercentageBox.resources
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.Properties.Resources.resources
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.SkyButton.resources
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.SkyGrid.resources
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\VisionSystem.Particles.InputBox.resources
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.SmallForms.WithExpireDate.resources
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.IntegerBoxToolStrip.resources
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.csproj.GenerateResource.cache
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.AssemblyInfoInputs.cache
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.AssemblyInfo.cs
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.csproj.CoreCompileInputs.cache
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.dll
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\refint\CoreSupport.dll
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.pdb
+D:\Abdullah\lenovo laptop\rouby\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\ref\CoreSupport.dll
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\bin\Debug\net7.0-windows\CoreSupport.deps.json
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\bin\Debug\net7.0-windows\CoreSupport.dll
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\bin\Debug\net7.0-windows\CoreSupport.pdb
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.ButtonNumber.resources
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.CheckTimePicker.resources
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedDecimalBox.resources
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedIntBox.resources
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedIntComboBox.resources
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedIntStringBox.resources
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedStringComboBox.resources
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.IntegerBox.resources
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.PasswordBox.resources
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.PercentageBox.resources
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.Properties.Resources.resources
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.SkyButton.resources
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.SkyGrid.resources
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\VisionSystem.Particles.InputBox.resources
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.SmallForms.WithExpireDate.resources
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.IntegerBoxToolStrip.resources
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.csproj.GenerateResource.cache
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.AssemblyInfoInputs.cache
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.AssemblyInfo.cs
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.csproj.CoreCompileInputs.cache
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.dll
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\refint\CoreSupport.dll
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.pdb
+D:\Windows Helper\Abdullah\Desktop\CoreSupport\CoreSupport\obj\Debug\net7.0-windows\ref\CoreSupport.dll
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\bin\Debug\net7.0-windows\CoreSupport.deps.json
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\bin\Debug\net7.0-windows\CoreSupport.dll
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\bin\Debug\net7.0-windows\CoreSupport.pdb
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.ButtonNumber.resources
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.CheckTimePicker.resources
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedDecimalBox.resources
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedIntBox.resources
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedIntComboBox.resources
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedIntStringBox.resources
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.FixedStringComboBox.resources
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.IntegerBox.resources
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.PasswordBox.resources
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.PercentageBox.resources
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.Properties.Resources.resources
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.SkyButton.resources
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.SkyGrid.resources
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\VisionSystem.Particles.InputBox.resources
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.SmallForms.WithExpireDate.resources
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\DesktopSupport.IntegerBoxToolStrip.resources
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.csproj.GenerateResource.cache
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.AssemblyInfoInputs.cache
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.AssemblyInfo.cs
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.csproj.CoreCompileInputs.cache
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.dll
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\refint\CoreSupport.dll
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\CoreSupport.pdb
+D:\Windows Helper\Abdullah\Desktop\ElroubyCoreSupport\CoreSupport\obj\Debug\net7.0-windows\ref\CoreSupport.dll
